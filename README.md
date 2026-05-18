@@ -14,17 +14,20 @@ The application supports the following operations:
 ## 📸 Screenshots
 
 **1. Main Menu Interface**
-![the main menu showing options 1 to 6](image.png)
+
+![Main Menu](image.png)
 
 **2. Adding a New Record**
-![Record added successfully](image-1.png)
+
+![Adding Record](image-1.png)
 
 **3. Listing All Records**
-![multiple saved contacts](image-2.png)
+
+![Listing Records](image-2.png)
 
 **4. Searching / Modifying a Record**
-![showing a search result](image-3.png)
 
+![Searching Record](image-3.png)
 ## 🛠️ Technologies Used
 
 * **Language:** C Programming Language
