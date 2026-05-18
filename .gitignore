@@ -1,0 +1,48 @@
+# =========================
+# Java & Compiled Files
+# =========================
+*.class
+*.log
+*.jar
+*.war
+/out/
+/bin/
+/target/
+.gradle/
+build/
+
+# =========================
+# C/C++ Compiled Binaries
+# =========================
+*.o
+*.out
+*.exe
+
+# =========================
+# Web Development (PHP/HTML/JS)
+# =========================
+node_modules/
+vendor/
+.env
+
+# =========================
+# IDEs & Code Editors
+# =========================
+.idea/
+*.iml
+*.iws
+.vscode/
+*.suo
+*.sln
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
