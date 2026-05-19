@@ -1,48 +1,45 @@
-# =========================
-# Java & Compiled Files
-# =========================
-*.class
-*.log
-*.jar
-*.war
-/out/
-/bin/
-/target/
-.gradle/
-build/
+# Prerequisites
+*.d
 
-# =========================
-# C/C++ Compiled Binaries
-# =========================
+# Compiled Object files
+*.slo
+*.lo
 *.o
-*.out
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
 *.exe
+*.out
+*.app
+phonebook
 
-# =========================
-# Web Development (PHP/HTML/JS)
-# =========================
-node_modules/
-vendor/
-.env
-
-# =========================
-# IDEs & Code Editors
-# =========================
-.idea/
-*.iml
-*.iws
+# VS Code directory (Editor settings & debug configs)
 .vscode/
-*.suo
-*.sln
 
-# =========================
-# OS Generated Files
-# =========================
+# OS generated files
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
-Thumbs.db
 ehthumbs.db
-Desktop.ini
+Thumbs.db
